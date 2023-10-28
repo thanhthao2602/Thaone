@@ -1,0 +1,39 @@
+@font-face {
+    font-family: VNM Sans Display;
+    src: url(./VNM-Sans-Display-Regular.otf);
+}
+body{
+    background-color: #0313b0;
+    color: #ffffff;
+    font-family:  VNM Sans Display ;
+}
+p{
+    text-align: center;
+    font-size: 25px;
+    
+}
+h1{
+    text-align: center;
+    font-size: 100px;
+    letter-spacing: 2px;
+}
+span{
+    margin-left: 41%;
+    font-size: 30px;
+}
+a{
+    padding-right: 120px;
+   
+}
+.d1{
+    line-height: 5px;
+     margin-top: 15%;
+}
+.ic{
+    text-align: center;
+    padding-top: 35px;
+   font-size: 25px;
+}
+.i1 , .i2{
+     padding-right: 23px;
+}
